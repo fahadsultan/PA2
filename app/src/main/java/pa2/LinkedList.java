@@ -55,18 +55,16 @@ public class LinkedList {
         
     }
 
-    public String reverse(){
-        
-    }
-
     /**
      * Traverse the linked list RECURSIVELY and 
-     * returns a string representation of the list
+     * returns the reverse string representation of the list
+     * e.g. the linked list 1 -> 2 -> 3 -> 4 will be printed as 4 3 2 1
      * @return String
      */
-    private String reverse(Node current){
+    private String reverse(){
         
     }
+    
     /**
      * Merges two sorted linked list and returns the 
      * merged linked list that is also sorted
