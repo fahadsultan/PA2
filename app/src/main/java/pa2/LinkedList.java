@@ -61,10 +61,10 @@ public class LinkedList {
      * e.g. the linked list 1 -> 2 -> 3 -> 4 will be printed as 4 3 2 1
      * @return String
      */
-    private String reverse(){
+    public String reverse(){
         
     }
-    
+
     /**
      * Merges two sorted linked list and returns the 
      * merged linked list that is also sorted
