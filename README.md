@@ -19,9 +19,7 @@ Write test cases for the singly sorted linked list from Question 1.
 
 Try to cover ALL cases for each method. Missing a test case scenario, even if your implementation is correct, will result in a deduction of points.
 
-Fill in skeleton code in `LinkedListTest.java` 
-
-. The code should be able to compile and run.
+Fill in skeleton code in `LinkedListTest.java` located in `app/src/test/java/pa2/` folder
 
 An example test case is given in the skeleton code: 
 
