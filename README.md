@@ -1,7 +1,7 @@
 
 # Programming Assignment 2 
 
-**Due: Sep 18, 2024, 11:59 PM**
+**Due: Sep 17th, 2024, 11:59 PM**
 
 ---
 **Instructions**
